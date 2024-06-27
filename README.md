@@ -1,3 +1,3 @@
 # demo
 My first Git Repository.
-Author-Thushar
+Author-Thushar R 
